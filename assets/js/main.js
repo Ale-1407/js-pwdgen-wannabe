@@ -8,3 +8,8 @@ console.log(userName);
 
 let userSurname = prompt('Qual è il tuo cognome?');
 console.log(userSurname);
+
+/* chiedere all'utente il suo colore preferito */
+
+let userColor = prompt('Qual è il tuo colore preferito?');
+console.log(userColor);
