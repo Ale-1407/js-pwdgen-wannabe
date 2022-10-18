@@ -13,3 +13,13 @@ console.log(userSurname);
 
 let userColor = prompt('Qual è il tuo colore preferito?');
 console.log(userColor);
+
+/* numero */
+
+let number = 14;
+console.log(number);
+
+/* FRASE password */
+
+document.getElementById('usPass').innerHTML = 
+`La tua password insicurissima è: ${userName}${userSurname}${userColor}${number}`
