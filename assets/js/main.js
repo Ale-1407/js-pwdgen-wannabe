@@ -16,7 +16,7 @@ console.log(userColor);
 
 /* numero */
 
-let number = 14;
+const number = 14;
 console.log(number);
 
 /* FRASE password */
